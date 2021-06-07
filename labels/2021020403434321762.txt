@@ -1,0 +1,56 @@
+1943,667
+84,85,388,150,Kolinos - Super Blanco
+87,150,388,213,Kolinos - Super Blanco
+87,213,395,278,Kolinos - Super Blanco
+93,282,395,344,Kolinos - Super Blanco
+97,344,405,404,Kolinos - Super Blanco
+93,404,405,470,Kolinos - Super Blanco
+95,469,403,531,Kolinos - Super Blanco
+93,531,403,588,Kolinos - Super Blanco
+416,93,682,160,Kolinos - Herbal Original
+413,160,682,218,Kolinos - Herbal Original
+413,218,685,281,Kolinos - Herbal Original
+414,284,681,344,Kolinos - Herbal Original
+415,346,686,405,Kolinos - Triple Limpieza Completa
+408,405,685,468,Kolinos - Triple Limpieza Completa
+405,467,684,529,Kolinos - Triple Limpieza Completa
+399,528,682,588,Kolinos - Triple Limpieza Completa
+706,511,1040,588,Colgate - Triple Accion
+704,428,1040,510,Colgate - Triple Accion
+703,350,1033,427,Colgate - Triple Accion
+698,267,1033,349,Colgate - Triple Accion
+706,211,970,266,Colgate - Herbal
+704,158,970,212,Colgate - Herbal
+704,101,969,158,Colgate - Herbal
+1028,139,1316,204,Colgate - Triple Accion
+1029,204,1316,266,Colgate - Triple Accion
+1031,264,1317,325,Colgate - Triple Accion
+1033,324,1317,391,Colgate - Triple Accion
+1033,391,1323,444,Colgate - Triple Accion
+1037,437,1325,488,Colgate - Triple Accion
+1037,488,1327,536,Colgate - Triple Accion
+1038,535,1326,589,Colgate - Triple Accion
+1329,532,1587,588,Colgate - Triple Accion Xtra Blanco
+1324,482,1580,532,Colgate - Triple Accion Xtra Blanco
+1324,427,1581,482,Colgate - Triple Accion Xtra Blanco
+1319,376,1583,428,Colgate - Triple Accion Xtra Blanco
+1319,318,1574,376,Colgate - Triple Accion Xtra Blanco
+1314,266,1573,318,Colgate - Triple Accion Xtra Blanco
+1314,214,1573,266,Colgate - Triple Accion Xtra Blanco
+1314,160,1573,214,Colgate - Triple Accion Xtra Blanco
+1623,348,1865,406,Colgate - Maxima Proteccion Anticaries
+1614,406,1865,468,Colgate - Maxima Proteccion Anticaries
+1613,466,1868,526,Colgate - Maxima Proteccion Anticaries
+1609,526,1868,589,Colgate - Maxima Proteccion Anticaries
+1587,74,1759,122,Kolinos - Super Blanco
+1586,122,1759,163,Kolinos - Super Blanco
+1586,163,1757,211,Kolinos - Super Blanco
+1572,212,1737,260,Kolinos - Super Blanco
+1572,260,1745,305,Kolinos - Super Blanco
+1573,305,1745,348,Kolinos - Super Blanco
+1744,301,1865,346,Kolinos - Super Blanco
+1742,259,1865,299,Kolinos - Super Blanco
+1737,208,1861,258,Kolinos - Super Blanco
+1757,164,1861,208,Kolinos - Super Blanco
+1757,121,1858,164,Kolinos - Super Blanco
+1758,75,1857,120,Kolinos - Super Blanco

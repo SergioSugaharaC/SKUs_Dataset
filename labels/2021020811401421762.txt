@@ -1,0 +1,20 @@
+1309,714
+106,102,415,164,Colgate - Triple Accion Xtra Blanco
+103,160,415,238,Colgate - Triple Accion Xtra Blanco
+102,236,448,310,Colgate - Triple Accion
+98,311,455,384,Colgate - Triple Accion
+102,387,460,465,Colgate - Triple Accion
+494,210,820,286,Colgate - Herbal
+491,283,820,361,Colgate - Herbal
+492,360,823,438,Colgate - Herbal
+494,433,836,516,Colgate - Maxima Proteccion Anticaries
+494,513,839,598,Colgate - Maxima Proteccion Anticaries
+491,596,839,650,Colgate - Maxima Proteccion Anticaries
+848,68,1177,141,Kolinos - Herbal Original
+847,140,1176,215,Kolinos - Herbal Original
+845,213,1183,288,Kolinos - Triple Limpieza Completa
+842,288,1183,362,Kolinos - Triple Limpieza Completa
+844,360,1192,439,Kolinos - Triple Limpieza Completa
+840,435,1207,517,Kolinos - Super Blanco
+839,517,1206,594,Kolinos - Super Blanco
+839,594,1209,651,Kolinos - Super Blanco

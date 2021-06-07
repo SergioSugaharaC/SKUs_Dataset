@@ -1,0 +1,6 @@
+1337,553
+896,187,1315,256,Colgate - Triple Accion
+897,251,1312,325,Colgate - Triple Accion
+889,313,1302,385,Colgate - Triple Accion
+893,373,1298,449,Colgate - Triple Accion
+898,432,1300,512,Colgate - Triple Accion

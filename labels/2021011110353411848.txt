@@ -1,0 +1,18 @@
+1051,724
+305,39,559,106,Kolinos - Super Blanco
+608,118,853,185,Kolinos - Herbal Original
+606,180,851,251,Kolinos - Herbal Original
+608,239,852,299,Kolinos - Herbal Original
+569,291,807,363,Kolinos - Herbal Original
+18,517,221,584,Colgate - Herbal
+45,573,270,643,Colgate - Triple Accion
+54,630,276,699,Colgate - Triple Accion
+269,429,490,501,Kolinos - Herbal Original
+271,487,517,557,Kolinos - Super Blanco
+271,541,513,609,Kolinos - Super Blanco
+274,603,513,665,Kolinos - Super Blanco
+275,656,516,722,Kolinos - Super Blanco
+516,530,663,589,Kolinos - Super Blanco
+512,586,663,642,Kolinos - Super Blanco
+516,638,666,695,Kolinos - Super Blanco
+520,690,667,724,Kolinos - Super Blanco

@@ -1,0 +1,5 @@
+1669,1236
+196,441,791,563,Colgate - Herbal
+192,558,801,715,Colgate - Herbal
+844,353,1509,494,Kolinos - Super Blanco
+840,494,1509,646,Kolinos - Super Blanco

@@ -1,0 +1,24 @@
+1404,707
+43,190,238,234,Colgate - Triple Accion Xtra Blanco
+39,233,235,277,Colgate - Triple Accion Xtra Blanco
+37,276,232,317,Colgate - Triple Accion Xtra Blanco
+31,315,232,357,Colgate - Triple Accion Xtra Blanco
+243,166,444,213,Colgate - Herbal
+239,211,443,261,Colgate - Herbal
+238,260,443,307,Colgate - Herbal
+235,304,442,355,Colgate - Herbal
+448,171,653,217,Colgate - Herbal
+445,215,653,262,Colgate - Herbal
+446,261,653,310,Colgate - Herbal
+445,310,653,355,Colgate - Herbal
+654,168,857,214,Kolinos - Herbal Original
+653,214,857,262,Kolinos - Herbal Original
+653,262,859,311,Kolinos - Herbal Original
+653,311,859,355,Kolinos - Herbal Original
+857,167,1065,208,Kolinos - Herbal Original
+858,207,1065,260,Kolinos - Herbal Original
+859,257,1071,305,Kolinos - Herbal Original
+863,301,1071,355,Kolinos - Herbal Original
+1065,177,1334,233,Colgate - Triple Accion
+1072,231,1333,293,Colgate - Triple Accion
+1071,291,1342,355,Colgate - Triple Accion

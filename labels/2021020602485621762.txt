@@ -1,0 +1,12 @@
+1699,762
+129,163,558,265,Kolinos - Herbal Original
+135,265,555,365,Colgate - Herbal
+158,575,615,658,Colgate - Triple Accion
+639,548,1113,650,Kolinos - Super Blanco
+639,449,1102,543,Kolinos - Super Blanco
+639,350,1103,449,Kolinos - Super Blanco
+658,253,1083,353,Kolinos - Triple Limpieza Completa
+643,149,1081,250,Kolinos - Triple Limpieza Completa
+1120,417,1533,497,Colgate - Triple Accion Xtra Blanco
+1121,495,1531,583,Colgate - Triple Accion Xtra Blanco
+1120,583,1525,664,Colgate - Triple Accion Xtra Blanco

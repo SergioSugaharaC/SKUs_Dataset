@@ -1,0 +1,13 @@
+690,268
+5,12,219,63,Colgate - Triple Accion
+4,63,224,116,Colgate - Triple Accion
+4,120,227,165,Colgate - Triple Accion
+2,165,228,218,Colgate - Triple Accion
+233,32,445,75,Colgate - Triple Accion Xtra Blanco
+232,79,440,123,Colgate - Triple Accion Xtra Blanco
+232,124,439,169,Colgate - Triple Accion Xtra Blanco
+232,168,440,215,Colgate - Triple Accion Xtra Blanco
+449,0,688,49,Kolinos - Super Blanco
+446,52,687,104,Kolinos - Super Blanco
+441,106,686,157,Kolinos - Super Blanco
+443,157,684,207,Kolinos - Super Blanco

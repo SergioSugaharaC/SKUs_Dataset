@@ -1,0 +1,9 @@
+1124,343
+160,128,467,206,Colgate - Triple Accion Xtra Blanco
+157,196,498,273,Colgate - Triple Accion
+148,274,491,341,Colgate - Triple Accion
+462,126,799,203,Kolinos - Super Blanco
+491,205,829,275,Kolinos - Super Blanco
+488,275,829,341,Kolinos - Super Blanco
+509,57,819,127,Kolinos - Triple Limpieza Completa
+165,71,462,130,Colgate - Triple Accion Xtra Blanco
