@@ -7,4 +7,4 @@ test: ../SKUs_Dataset/test/image  # 20288 of 40670 images, submit to https://com
 nc: 7
 
 # class names
-names: ['Kolinos - Herbal Original', 'Colgate - Herbal', 'Colgate - Triple Accion', 'Colgate - Triple Accion Xtra Blanco', 'Kolinos - Super Blanco', 'Kolinos - Triple Limpieza Completa']
+names: ['Kolinos - Herbal Original', 'Colgate - Herbal', 'Colgate - Triple Accion', 'Colgate - Triple Accion Xtra Blanco', 'Colgate - Maxima Proteccion Anticaries', 'Kolinos - Super Blanco', 'Kolinos - Triple Limpieza Completa']
